@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...React, Node.js, Unreal Engine 5, and as much as my brain can handle if you arent learning are you living ? 
 - 💞️ I’m looking to collaborate on ... game development and anything else where I can learn Im confindent in my Web development skills and love to design UI to help maximize UX 
 - 📫 😄 ⚡
-- Fun fact: ... I started coding due to an injury at work and ever since i dived into the work of software development I found a world where I put my love of problem solving good use 
+- Fun fact: ... I started coding due to an injury at work and ever since i dove into the work of software development I found a world where I put my love of problem solving good use 
 
 <!---
 HalidaysNewestWizard/HalidaysNewestWizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
